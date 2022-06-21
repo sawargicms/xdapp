@@ -1,11 +1,8 @@
-# wnrapp
+# flangapp_app
 
 A new Flutter project.
 
 ## Getting Started
-
-Build tes https://x-d.link  
-tes convert web to app https://wnr.app
 
 This project is a starting point for a Flutter application.
 
