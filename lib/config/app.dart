@@ -1,5 +1,5 @@
-import 'package:flangapp_app/enum/action_type.dart';
-import 'package:flangapp_app/models/navigation_item.dart';
+import 'package:wnrapp/enum/action_type.dart';
+import 'package:wnrapp/models/navigation_item.dart';
 
 import '../enum/background_mode.dart';
 import '../enum/load_indicator.dart';

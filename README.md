@@ -1,16 +1,18 @@
-# flangapp_app
+# wnrapp
 
-A new Flutter project.
+Uji Proyek Flutter baru.
+[Build Xd.Link](https://x-d.link)
+[Demo Apk WnrApp](https://1drv.ms/u/s!Ak41_0szpzuchfh2mpLun3tN7jW4Sg?e=GIrcgP)
 
-## Getting Started
+## Mulai
 
-This project is a starting point for a Flutter application.
+Proyek ini adalah titik awal untuk aplikasi Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Beberapa sumber daya untuk membantu Anda memulai jika ini adalah proyek Flutter pertama Anda:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Tulis aplikasi Flutter pertama Anda](https://flutter.dev/docs/get-started/codelab)
+- [Buku Masak: Sampel Flutter yang Berguna](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Untuk bantuan memulai Flutter, lihat
+[dokumentasi online](https://flutter.dev/docs), yang menawarkan tutorial,
+sampel, panduan pengembangan seluler, dan referensi API lengkap.
