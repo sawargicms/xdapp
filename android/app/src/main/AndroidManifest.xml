@@ -6,6 +6,9 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
@@ -16,7 +19,7 @@
     <uses-permission android:name="android.permission.ACCESS_GPS" />
     <uses-feature android:name="android.hardware.location.gps" />
     <application
-            android:label="Wshop"
+            android:label="Wshop Tes"
             android:name="${applicationName}"
             android:screenOrientation="unspecified"
             android:icon="@mipmap/ic_launcher">
