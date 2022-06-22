@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.wnrapp">
+          package="com.example.flangapp_app">
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -18,7 +18,7 @@
     <application
             android:label="Wshop Tes"
             android:name="${applicationName}"
-            android:screenOrientation="portrait"
+            android:screenOrientation="unspecified"
             android:icon="@mipmap/ic_launcher">
         <provider
                 android:name="androidx.core.content.FileProvider"
