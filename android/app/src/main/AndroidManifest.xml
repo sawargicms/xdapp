@@ -16,9 +16,9 @@
     <uses-permission android:name="android.permission.ACCESS_GPS" />
     <uses-feature android:name="android.hardware.location.gps" />
     <application
-            android:label="Point Of Sale swgcms"
+            android:label="Point Of Sale"
             android:name="${applicationName}"
-            android:screenOrientation="portrait"
+            android:screenOrientation="unspecified"
             android:icon="@mipmap/ic_launcher">
         <provider
                 android:name="androidx.core.content.FileProvider"
