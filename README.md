@@ -4,7 +4,9 @@ Uji Proyek Flutter baru.
 
 [Build Xd.Link](https://x-d.link)
 
-[Demo Apk WnrApp](https://1drv.ms/u/s!Ak41_0szpzuchfh2mpLun3tN7jW4Sg?e=GIrcgP)
+[Demo Apk WnrApp](https://1drv.ms/u/s!Ak41_0szpzuchfh18Z_i-auO5x5XDQ?e=4NZ4g0)
+
+[Suport by](https://sawargi.store)
 
 ## Mulai
 

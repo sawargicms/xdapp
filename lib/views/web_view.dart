@@ -347,7 +347,7 @@ class _WebViewState extends State<WebView> {
       },
       child: Scaffold(
         key: _scaffoldKey,
-        resizeToAvoidBottomInset: false,
+        resizeToAvoidBottomInset: true,
         appBar: Config.appTemplate != Template.blank
             ? Bar(
                 title: webViewsCollections[tabIndex].title,
